@@ -1,1 +1,28 @@
+# prootdistroplugins
+
+A set of proot-distro plugins (distro.sh) for popular and not-so-popular Linux distros. \ These are plugins to install/use within a Proot environment on Android and Linux for CentOS, Kali, Parrot, BackBox, Raspberry Pi OS and Maemo Leste.
+
+# Ownership & Development Acknowledgment
+
+The concept for this endeavor and the structure of the repository was my doing. \ The scripts and documentation therein was completed with the help of ChatGPT, an artificial intelligent language model from OpenAI. \ I am unaffiliated with any of the Linux distros presented herein or their associated official development teams.
+
+# Important Notice!
+
+Some of the distros herein--Kali Linux, Parrot OS, BackBox--contain preloaded tools for penetration and exploitation. \ These tools are to be used for educational purposes, ethical hacking only for educational purposes, legitimate security vulnerability research, authorized penetration testing efforts. \ Unauthorized and/or unethical hacking will get you in trouble with law enforcement.
+
+# How to Use & Suggest Improvements/Contributions to Project
+
+Refer to individual plugins scripts for installation and use. \ Open source contributions welcome—open issues or PR with new scripts and/or improvements.
+
+# Guide
+Go to Termux
+Then
+Download one of our proot distro plugin scripts
+Then
+`mv distronamehere.sh $PREFIX/etc/proot-distro/`
+Simply easy!
+
+# License
+
+MIT
 
